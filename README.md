@@ -11,7 +11,7 @@ time of completion is day and a half.
 
 **Client** React, React Redux, Material UI
 
-**Server** Nodejs, Prisma Express, Typescript, Postgresql
+**Server** Nodejs, Prisma, Express, Typescript, Postgresql
 
 
 
